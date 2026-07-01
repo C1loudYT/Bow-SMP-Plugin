@@ -1,0 +1,25 @@
+{
+  "formatVersion": 1,
+  "game": "minecraft",
+  "versionId": "1.0.0",
+  "name": "Bow SMP Plugin",
+  "summary": "A fun SMP plugin that gives players random bows with unique abilities!",
+  "files": [
+    {
+      "path": "mods/BowSMPPlugin-1.0.0.jar",
+      "hashes": {
+        "sha1": "",
+        "sha512": ""
+      },
+      "env": {
+        "server": "required",
+        "client": "optional"
+      },
+      "downloads": [
+        "https://github.com/C1loudYT/Bow-SMP-Plugin/releases/download/v1.0.0/BowSMPPlugin-1.0.0.jar"
+      ],
+      "fileSize": 0
+    }
+  ],
+  "dependencies": {}
+}

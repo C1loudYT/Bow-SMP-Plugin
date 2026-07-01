@@ -1,0 +1,19 @@
+name: BowSMPPlugin
+version: 1.0.0
+main: com.bowsmp.BowSMPPlugin
+api-version: 1.20
+description: A plugin that gives players random bows with unique abilities
+authors:
+  - C1loudYT
+
+commands:
+  randombow:
+    description: Get a random bow with a unique ability
+    usage: /randombow
+    aliases:
+      - rbow
+  withdraw:
+    description: Withdraw strength from your bow to reduce its damage
+    usage: /withdraw <amount>
+    aliases:
+      - wd
